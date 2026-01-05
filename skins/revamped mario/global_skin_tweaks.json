@@ -1,0 +1,35 @@
+{
+    "boomerang_spin_sound_delay_sec": 0.5,
+    "checkpoint_sound_delay_sec": 0.5,
+    "enable_starman_run_out_sound": false,
+    "force_override_death_sound": false,
+    "force_override_level_complete_music": false,
+    "force_override_menu_select_sound": true,
+    "load_sounds_from_siblings_on_fallback": true,
+    "particles_process_material": {
+        "angle_max": 180.0,
+        "angle_min": -180.0,
+        "direction": [
+            1.0,
+            0.0
+        ],
+        "emission_box_extents": [
+            1.0,
+            1.0
+        ],
+        "emission_shape": "sphere",
+        "emission_sphere_radius": 24.0,
+        "gravity": [
+            0.0,
+            0.0
+        ],
+        "hue_variation_max": 0.0,
+        "hue_variation_min": 0.0,
+        "initial_velocity_max": 75.0,
+        "initial_velocity_min": 25.0,
+        "particle_flag_disable_z": true,
+        "scale_max": 0.3,
+        "scale_min": 0.1,
+        "spread": 180.0
+    }
+}
